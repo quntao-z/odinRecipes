@@ -1,0 +1,37 @@
+h1{
+    color: purple;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h2{
+    color:navy;
+    font-size: x-large;
+}
+
+img{
+    height: 500px;
+    width: 500px;
+}
+
+ul, ol {
+    font-size: large;
+}
+
+h4{
+    color: #228B22;
+}
+
+#chips, #chocolate{
+    color: brown;
+}
+
+#cream{
+    color: #F7DE3A; 
+}
+
+#dough{
+    color: #996515 ;
+}
+
+

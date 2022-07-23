@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+#title{
+    color: navy;
+    background-color: pink;
+}
+
+.recipes{
+    font-size:xx-large
+}
+
+#chocolate{
+    color: brown;
+}
+
+#oreo{
+    color: black;
+}
+
+#macaroons{
+    color: palevioletred;
+}
+
+
